@@ -1,0 +1,13 @@
+{
+    "name": "timberline-data-tracker",
+    "author": "DivineEnder",
+    "version": "0.0.1",
+    "main": "./lib/main.js",
+    "types": "./lib/main.d.ts",
+    "dependencies": {
+        "axios": "^0.26.1",
+        "bluebird": "^3.7.2",
+        "cheerio": "^1.0.0-rc.10",
+        "typescript": "*"
+    }
+}
